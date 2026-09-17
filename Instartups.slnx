@@ -7,7 +7,7 @@
     <File Path="global.json" />
   </Folder>
   <Folder Name="/src/">
-    <Project Path="Infrastructure.Api/Infrastructure.Api.csproj" />
+    <Project Path="Infrastructure.Api/Instartups.Api.csproj" />
     <Project Path="Instartups.Application/Instartups.Application.csproj" />
     <Project Path="Instartups.Domain/Instartups.Domain.csproj" />
     <Project Path="Instartups.Infrastructure/Instartups.Infrastructure.csproj" />
