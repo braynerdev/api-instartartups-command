@@ -1,15 +1,10 @@
 <Solution>
-  <Folder Name="/build/">
-    <File Path=".gitkeep3" />
-  </Folder>
-  <Folder Name="/docs/">
-    <File Path=".gitkeep2" />
-  </Folder>
+  <Folder Name="/build/" />
+  <Folder Name="/docs/" />
   <Folder Name="/Solution Items/">
     <File Path=".editorconfig" />
     <File Path=".gitignore" />
     <File Path="global.json" />
-    <File Path="NuGet.config" />
   </Folder>
   <Folder Name="/src/">
     <Project Path="Infrastructure.Api/Infrastructure.Api.csproj" />
@@ -17,7 +12,5 @@
     <Project Path="Instartups.Domain/Instartups.Domain.csproj" />
     <Project Path="Instartups.Infrastructure/Instartups.Infrastructure.csproj" />
   </Folder>
-  <Folder Name="/tests/">
-    <File Path=".gitkeep" />
-  </Folder>
+  <Folder Name="/tests/" />
 </Solution>
